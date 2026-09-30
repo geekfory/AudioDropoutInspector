@@ -18,6 +18,11 @@
 点击前往 [Releases](https://github.com/geekfory/AudioDropoutInspector/releases) 页面下载 (Click on the [Releases](https://github.com/geekfory/AudioDropoutInspector/releases) to download)   [![GitHub release](https://img.shields.io/github/v/release/geekfory/AudioDropoutInspector?label=Download%20Release)](https://github.com/geekfory/AudioDropoutInspector/releases/latest)
 
 ---
+
+<img width="2034" height="1419" alt="UI" src="https://github.com/user-attachments/assets/7816964f-c165-4935-946b-a73683db1a1d" />
+
+
+---
 ## 目录 / Table of Contents
 
 - [简体中文说明 (Chinese)](#简体中文说明)
