@@ -275,7 +275,7 @@
   - **激活码输入框**：
     - 附带 `[ 粘贴授权码 ]` 快捷按钮；
     - 点击 `[ 立即注册/激活 ]` 即可完成激活。**【软件自带 5 次免费试用次数，直接点击此按钮可使用。】**
-    - **如试用次数用完请在 [issues 页面](https://github.com/geekfory/AudioDropoutInspector/issues) 留下您的社交媒体联系方式，我会联系你**
+    - **如试用次数用完请在 [issues 页面](https://github.com/geekfory/AudioDropoutInspector/issues) 留下您的社交媒体联系方式或机器码，我会联系你**
 
 ---
 
