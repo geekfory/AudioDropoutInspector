@@ -15,6 +15,9 @@
 
 ---
 
+点击前往 [Releases](https://github.com/geekfory/AudioDropoutInspector/releases) 页面下载（Click on the [Releases](https://github.com/geekfory/AudioDropoutInspector/releases) to download）
+
+---
 ## 目录 / Table of Contents
 
 - [简体中文说明 (Chinese)](#简体中文说明)
