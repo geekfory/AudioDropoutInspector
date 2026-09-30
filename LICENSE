@@ -1,0 +1,47 @@
+Copyright (c) 2026 Fory (AudioDropoutInspector)
+All Rights Reserved.
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+================================================================================
+【软件版权与使用许可协议 (中英双语版 / Bilingual Terms)】
+================================================================================
+
+一、 许可授权范围 (Grant of License)
+作者在此授予合法获得本软件可执行文件 (.exe) 的用户一份个人、非独占、不可转让、免费且非商业性的使用许可。
+
+二、 限制条款 (Strict Restrictions)
+1. 必须保留署名与出处 (Attribution Required):
+   使用者在非商业环境下引用、分发或推荐本软件时，必须保留原作者信息 (Fory) 及本项目官方代码仓库原始链接。
+
+2. 严格禁止商业用途 (No Commercial Use):
+   严禁将本软件全部或任何部分（包括二进制可执行文件、文档、界面素材等）用于任何商业盈利目的，包括但不限于单独销售、付费下载、捆绑销售、作为收费课程/收费技术服务之附赠软件、商业转售或进行任何形式的有偿分发。
+
+3. 严格禁止反编译与逆向工程 (Strict Prohibition of Decompilation & Reverse Engineering):
+   - 本项目当前仅以编译后的独立二进制文件形式分发，作者保留全部源代码的所有权与商业秘密。
+   - 严禁任何个人、组织或实体对本软件的可执行文件 (.exe)、运行库、字节码或内存镜像进行任何形式的反编译 (Decompilation)、反汇编 (Disassembly)、反混淆、逆向工程提取源代码、或使用任何工具/脚本 Dump 提取底层实现与算法。
+   - 严禁尝试破解、修改、绕过或移除程序内置的机器码绑定认证、RSA-2048 验签、动态配额完整性校验 (HMAC-SHA256) 或任何内置安全防御措施。
+   - 严禁基于逆向工程修改制作、重新打包并分发任何破解版、绿色精简版、修改版或衍生作品。
+
+================================================================================
+TERMS OF USE (English)
+================================================================================
+
+1. Grant of License:
+   The author grants users a personal, non-exclusive, non-transferable, revocable license to execute the compiled binary (.exe) strictly for personal, non-commercial quality control and evaluation purposes.
+
+2. Attribution:
+   You must give appropriate credit to the author (Fory) and maintain a link to the original repository in all non-commercial redistributions.
+
+3. Non-Commercial Use:
+   You may not use this material for commercial purposes, including selling, licensing, paywalling, bundling with commercial toolkits, or offering as paid value-added services.
+
+4. Prohibition of Reverse Engineering & Decompilation:
+   - Decompilation, disassembly, reverse engineering, deobfuscation, memory dumping, or attempting to reconstruct the source code or proprietary algorithms of the software is strictly prohibited.
+   - Bypassing, cracking, tampering with, or removing hardware machine ID checks, RSA-2048 signature verification, dynamic token guards, or any built-in licensing mechanisms is strictly prohibited.
+   - Creating, publishing, repacking, or distributing derivative, cracked, or modified versions is strictly prohibited.
+
+================================================================================
+Full CC BY-NC-ND 4.0 Legal Text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+================================================================================
