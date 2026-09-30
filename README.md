@@ -87,10 +87,10 @@
 
 ---
 
-## 3. 下载与运行
+## 3. 下载与运行    [![GitHub release](https://img.shields.io/github/v/release/geekfory/AudioDropoutInspector?label=Download%20Release)](https://github.com/geekfory/AudioDropoutInspector/releases/latest)
 
-1. 进入本项目 GitHub 仓库的 **Releases** 页面；
-2. 下载最新版本的打包可执行文件（例如 `AudioDropoutInspector_v0.1.5.4.exe`）；
+1. 进入本项目 GitHub 仓库的 [**Releases**](https://github.com/geekfory/AudioDropoutInspector/releases) 页面；
+2. 下载最新版本的打包exe可执行文件（例如 `AudioDropoutInspector_v0.1.5.4.exe`）；
 3. 将下载的 `.exe` 放置在电脑上任意无只读权限的目录（如 `D:\Tools\`）；
 4. 双击运行即可。
 
