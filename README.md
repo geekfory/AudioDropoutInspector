@@ -1,7 +1,6 @@
 # 音频断流检测工具 / Audio Dropout Inspector
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v0.1.5.4-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D6.svg?logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/Release-Portable%20Exe%20(Standalone)-success.svg" alt="Release">
   <img src="https://img.shields.io/badge/Architecture-x86__64-orange.svg" alt="Architecture">
